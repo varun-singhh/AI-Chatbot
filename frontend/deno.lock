@@ -1,0 +1,25 @@
+{
+  "version": "4",
+  "remote": {
+    "https://deno.land/std@0.203.0/async/delay.ts": "a6142eb44cdd856b645086af2b811b1fcce08ec06bb7d50969e6a872ee9b8659",
+    "https://deno.land/std@0.203.0/http/server.ts": "1b2403b3c544c0624ad23e8ca4e05877e65380d9e0d75d04957432d65c3d5f41"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@supabase/supabase-js@^2.49.4",
+        "npm:@testing-library/dom@^10.4.0",
+        "npm:@testing-library/jest-dom@^6.6.3",
+        "npm:@testing-library/react@^16.3.0",
+        "npm:@testing-library/user-event@^13.5.0",
+        "npm:openai@^4.95.0",
+        "npm:react-dom@^19.1.0",
+        "npm:react-icons@^5.5.0",
+        "npm:react-scripts@5.0.1",
+        "npm:react@^19.1.0",
+        "npm:tailwindcss@^3.4.17",
+        "npm:web-vitals@^2.1.4"
+      ]
+    }
+  }
+}
